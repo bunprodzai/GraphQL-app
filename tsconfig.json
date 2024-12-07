@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // bien dich thu muc js
+    "target": "es2017", // biên dịch sang es6
+    "module": "commonjs", // là tiêu chuẩn được sử dụng trong node.js để làm việc với các module
+    "removeComments": true, // xoa cac comment khi bien dich
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
